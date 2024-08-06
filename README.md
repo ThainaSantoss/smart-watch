@@ -17,7 +17,7 @@ Este é um projeto de relógio digital desenvolvido para praticar manipulações
 
   
 
-- Exibe a hora e a data atuais.
+- Exibe a hora.
 
 - Atualização em tempo real a cada segundo.
 
