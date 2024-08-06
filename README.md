@@ -5,7 +5,7 @@
 
   
 
-Este é um projeto de relógio digital desenvolvido para praticar manipulações de datas e horários em JavaScript. O relógio exibe a hora atual, atualizando-se em tempo real, e inclui funcionalidades adicionais, como a exibição da data atual e opções de formato de hora.
+Este é um projeto de relógio digital desenvolvido para praticar manipulações de datas e horários em JavaScript. O relógio exibe a hora atual, atualizando-se em tempo real, e 
 
   
 
@@ -18,11 +18,7 @@ Este é um projeto de relógio digital desenvolvido para praticar manipulações
   
 
 - Exibe a hora.
-
 - Atualização em tempo real a cada segundo.
-
-- Suporte para formatos de 12 e 24 horas.
-
 - Interface simples e responsiva.
 
   
